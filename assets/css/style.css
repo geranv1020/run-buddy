@@ -61,7 +61,7 @@ footer h2 {
     margin: 0;
 }
 
-  footer div {
+footer div {
     float: right;
     line-height: 1.5;
     text-align: right;
@@ -69,6 +69,10 @@ footer h2 {
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
 }
 
 /* Hero Style Start */
@@ -82,11 +86,11 @@ footer a {
 /* Hero Style End */
 
 .hero-form {
+    border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
     color: #024e76;
-    border: solid 3px #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;   
@@ -121,8 +125,4 @@ footer a {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-}
-
-section {
-    padding: 60px;
 }
