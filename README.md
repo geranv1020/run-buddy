@@ -10,5 +10,7 @@ A website that offers fitness training services.
 ## Website
 https://lerantino.github.io/run-buddy/
 
-# Contribution
+## Contribution
 Made with ❤️ by Geran Vanatta
+
+## ©️2019 Run Buddy, Inc
